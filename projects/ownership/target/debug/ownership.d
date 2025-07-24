@@ -1,0 +1,1 @@
+/home/dev/Documents/Learning-Rust/projects/ownership/target/debug/ownership: /home/dev/Documents/Learning-Rust/projects/ownership/src/main.rs /home/dev/Documents/Learning-Rust/projects/ownership/src/ownership_and_functions.rs
